@@ -1,2 +1,2 @@
 # CarParking
-Text based Car parking system developed using java
+Terminal based Car parking system developed using java
